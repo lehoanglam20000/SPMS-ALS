@@ -1,0 +1,2 @@
+Main-Class: keel.Algorithms.Instance_Generation.LSPG_DT.LSPG_DTGenerator
+
