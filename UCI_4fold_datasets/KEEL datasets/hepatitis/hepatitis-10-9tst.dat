@@ -1,0 +1,39 @@
+@relation hepatitis
+@attribute at1 integer [7, 78]
+@attribute at2 integer [1, 2]
+@attribute at3 integer [1, 2]
+@attribute at4 integer [1, 2]
+@attribute at5 integer [1, 2]
+@attribute at6 integer [1, 2]
+@attribute at7 integer [1, 2]
+@attribute at8 integer [1, 2]
+@attribute at9 integer [1, 2]
+@attribute at10 integer [1, 2]
+@attribute at11 integer [1, 2]
+@attribute at12 integer [1, 2]
+@attribute at13 integer [1, 2]
+@attribute at14 real [0.3, 8.0]
+@attribute at15 integer [26, 295]
+@attribute at16 integer [14, 648]
+@attribute at17 real [2.1, 6.4]
+@attribute at18 integer [0, 100]
+@attribute at19 integer [1, 2]
+@attribute class {1, 2}
+@inputs at1, at2, at3, at4, at5, at6, at7, at8, at9, at10, at11, at12, at13, at14, at15, at16, at17, at18, at19
+@outputs class
+@data
+34, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1.0, <null>, 200, 4.0, <null>, 1, 2
+51, 1, 1, 2, 1, 2, 1, 2, 2, 1, 1, 2, 2, <null>, <null>, <null>, <null>, <null>, 1, 1
+30, 1, 2, 2, 1, 2, 2, 2, 1, 2, 2, 2, 2, 2.2, 57, 144, 4.9, 78, 1, 2
+58, 2, 2, 2, 1, 2, 2, 2, 1, 2, 1, 2, 2, 1.4, 175, 55, 2.7, 36, 1, 2
+65, 1, 2, 2, 1, 1, 2, 2, 1, 1, 1, 1, 2, 0.3, 180, 53, 2.9, 74, 2, 2
+39, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1.0, 85, 20, 4.0, <null>, 1, 2
+50, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1.5, 100, 100, 5.3, <null>, 1, 2
+47, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 1, 2.0, 84, 23, 4.2, 66, 2, 1
+60, 1, 1, 2, 1, 2, 2, 1, 1, 1, 1, 2, 2, <null>, <null>, 40, <null>, <null>, 2, 2
+54, 1, 1, 1, 2, 2, 2, 1, 1, 2, 2, 2, 2, 1.0, 155, 225, 3.6, 67, 2, 2
+61, 1, 1, 2, 1, 1, 2, <null>, <null>, 2, 1, 2, 2, <null>, <null>, <null>, <null>, <null>, 2, 1
+34, 2, 2, 2, 1, 1, 1, 1, 1, 2, 1, 2, 2, 0.7, 70, 24, 4.1, 100, 2, 2
+48, 1, 2, 2, 1, 1, 1, 2, 1, 2, 1, 2, 2, 2.0, 158, 278, 3.8, <null>, 2, 2
+38, 1, 2, 2, 2, 2, 2, 2, 1, 2, 1, 2, 1, 1.6, 130, 140, 3.5, 56, 2, 2
+53, 2, 1, 2, 1, 2, 2, 2, 2, 1, 1, 2, 1, 1.5, 81, 19, 4.1, 48, 2, 2

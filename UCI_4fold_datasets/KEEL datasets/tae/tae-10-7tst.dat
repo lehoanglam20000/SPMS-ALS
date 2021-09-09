@@ -1,0 +1,25 @@
+@relation tae
+@attribute at1 integer [1, 2]
+@attribute at2 integer [1, 25]
+@attribute at3 integer [1, 26]
+@attribute at4 integer [1, 2]
+@attribute at5 integer [3, 66]
+@attribute class {1, 2, 3}
+@inputs at1, at2, at3, at4, at5
+@outputs class
+@data
+2, 13, 3, 1, 10, 2
+2, 14, 15, 2, 38, 1
+1, 5, 2, 2, 33, 3
+2, 6, 17, 2, 43, 2
+2, 2, 9, 2, 31, 2
+2, 16, 8, 2, 36, 1
+2, 16, 19, 2, 11, 3
+2, 9, 2, 2, 39, 3
+2, 1, 15, 2, 31, 3
+1, 22, 13, 2, 27, 2
+1, 14, 15, 2, 32, 1
+2, 8, 3, 2, 27, 1
+2, 20, 2, 2, 3, 1
+1, 8, 3, 2, 29, 3
+2, 14, 23, 2, 17, 2

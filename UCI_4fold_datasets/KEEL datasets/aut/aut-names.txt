@@ -1,0 +1,45 @@
+Automobile data set
+
+1: Description.
+
+This data set consists of three types of entities: (a) the specification of an auto in terms of various characteristics, (b) its assigned insurance risk rating, (c) its normalized losses in use as compared to other cars. Symboling corresponds to the degree to which the auto is more risky than its price indicates. Cars are initially assigned a risk factor symbol associated with its price. Then, if it is more risky (or less), this symbol is adjusted by moving it up (or down) the scale. A value of +3 indicates that the auto is risky, -2 that it is probably pretty safe.
+
+
+2: Type.			Classification	
+3: Origin.			Real world
+4: Instances.		150 (205)
+5: Features.		25
+6: Classes.			6	
+7: Missing values.	Yes
+
+8: Header.
+
+@relation automobile
+@attribute Normalized-losses real [65.0, 256.0]
+@attribute Make {alfa-romero, audi, bmw, chevrolet, dodge, honda, isuzu, jaguar, mazda, mercedes-benz, mercury, mitsubishi, nissan, peugot, plymouth, porsche, renault, saab, subaru, toyota, volkswagen, volvo}
+@attribute Fuel-type {diesel, gas}
+@attribute Aspiration {std, turbo}
+@attribute Num-of-doors {four, two}
+@attribute Body-style {hardtop, wagon, sedan, hatchback, convertible}
+@attribute Drive-wheels {4wd, fwd, rwd}
+@attribute Engine-location {front, rear}
+@attribute Wheel-base real [86.6, 120.9]
+@attribute Length real [141.1, 208.1]
+@attribute Width real [60.3, 72.3]
+@attribute Height real [47.8, 59.8]
+@attribute Curb-weight real [1488.0, 4066.0]
+@attribute Engine-type {dohc, dohcv, l, ohc, ohcf, ohcv, rotor}
+@attribute Num-of-cylinders {eight, five, four, six, three, twelve, two}
+@attribute Engine-size real [61.0, 326.0]
+@attribute Fuel-system {1bbl, 2bbl, 4bbl, idi, mfi, mpfi, spdi, spfi}
+@attribute Bore real [2.54, 3.94]
+@attribute Stroke real [2.07, 4.17]
+@attribute Compression-ratio real [7.0, 23.0]
+@attribute Horsepower real [48.0, 288.0]
+@attribute Peak-rpm real [4150.0, 6600.0]
+@attribute City-mpg real [13.0, 49.0]
+@attribute Highway-mpg real [16.0, 54.0]
+@attribute Price real [5118.0, 45400.0]
+@attribute Symboling {-2, -1, 0, 1, 2, 3}
+@inputs Normalized-losses, Make, Fuel-type, Aspiration, Num-of-doors, Body-style, Drive-wheels, Engine-location, Wheel-base, Length, Width, Height, Curb-weight, Engine-type, Num-of-cylinders, Engine-size, Fuel-system, Bore, Stroke, Compression-ratio, Horsepower, Peak-rpm, City-mpg, Highway-mpg, Price
+@outputs Symboling

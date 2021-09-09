@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset_list>
+<!-- we start with medium size -->
+
+  <dataset>
+    <nameAbr>abalone</nameAbr>
+    <nameComplete>abalone</nameComplete>
+    <problemType>Classification</problemType>
+    <partitions>
+      <partition>10cfv</partition>
+      <partition>5x2cv</partition>
+    </partitions>
+    <continuosValues>No</continuosValues>
+    <discreteValues>No</discreteValues>
+    <nominalValues>No</nominalValues>
+    <impreciseValues>No</impreciseValues>
+    <percMissingValues>0</percMissingValues>
+    <field>Laboratory</field>
+    
+  </dataset>
+  <dataset>
+    <nameAbr>banana</nameAbr>
+    <nameComplete>banana</nameComplete>
+    <problemType>Classification</problemType>
+    <partitions>
+      <partition>10cfv</partition>
+      <partition>5x2cv</partition>
+    </partitions>
+    <continuosValues>No</continuosValues>
+    <discreteValues>No</discreteValues>
+    <nominalValues>No</nominalValues>
+    <impreciseValues>No</impreciseValues>
+    <percMissingValues>0</percMissingValues>
+    <field>Laboratory</field>
+    
+  </dataset>
+  <dataset>
+    <nameAbr>chess</nameAbr>
+    <nameComplete>chess</nameComplete>
+    <problemType>Classification</problemType>
+    <partitions>
+      <partition>10cfv</partition>
+      <partition>5x2cv</partition>
+    </partitions>
+    <continuosValues>No</continuosValues>
+    <discreteValues>No</discreteValues>
+    <nominalValues>No</nominalValues>
+    <impreciseValues>No</impreciseValues>
+    <percMissingValues>0</percMissingValues>
+    <field>Laboratory</field>
+    
+  </dataset>
+  <dataset>
+    <nameAbr>coil2000</nameAbr>
+    <nameComplete>coil2000</nameComplete>
+    <problemType>Classification</problemType>
+    <partitions>
+      <partition>10cfv</partition>
+      <partition>5x2cv</partition>
+    </partitions>
+    <continuosValues>No</continuosValues>
+    <discreteValues>No</discreteValues>
+    <nominalValues>No</nominalValues>
+    <impreciseValues>No</impreciseValues>
+    <percMissingValues>0</percMissingValues>
+    <field>Laboratory</field>
+    
+  </dataset>
+  <dataset>
+    <nameAbr>magic</nameAbr>
+    <nameComplete>magic</nameComplete>
+    <problemType>Classification</problemType>
+    <partitions>
+      <partition>10cfv</partition>
+      <partition>5x2cv</partition>
+    </partitions>
+    <continuosValues>No</continuosValues>
+    <discreteValues>No</discreteValues>
+    <nominalValues>No</nominalValues>
+    <impreciseValues>No</impreciseValues>
+    <percMissingValues>0</percMissingValues>
+    <field>Laboratory</field>
+    
+  </dataset>
+  <dataset>
+    <nameAbr>marketing</nameAbr>
+    <nameComplete>marketing</nameComplete>
+    <problemType>Classification</problemType>
+    <partitions>
+      <partition>10cfv</partition>
+      <partition>5x2cv</partition>
+    </partitions>
+    <continuosValues>No</continuosValues>
+    <discreteValues>No</discreteValues>
+    <nominalValues>No</nominalValues>
+    <impreciseValues>No</impreciseValues>
+    <percMissingValues>0</percMissingValues>
+    <field>Laboratory</field>
+    
+  </dataset>
+  <dataset>
+    <nameAbr>nursery</nameAbr>
+    <nameComplete>nursery</nameComplete>
+    <problemType>Classification</problemType>
+    <partitions>
+      <partition>10cfv</partition>
+      <partition>5x2cv</partition>
+    </partitions>
+    <continuosValues>No</continuosValues>
+    <discreteValues>No</discreteValues>
+    <nominalValues>No</nominalValues>
+    <impreciseValues>No</impreciseValues>
+    <percMissingValues>0</percMissingValues>
+    <field>Laboratory</field>
+    
+  </dataset>
+  <dataset>
+    <nameAbr>page-blocks</nameAbr>
+    <nameComplete>page-blocks</nameComplete>
+    <problemType>Classification</problemType>
+    <partitions>
+      <partition>10cfv</partition>
+      <partition>5x2cv</partition>
+    </partitions>
+    <continuosValues>No</continuosValues>
+    <discreteValues>No</discreteValues>
+    <nominalValues>No</nominalValues>
+    <impreciseValues>No</impreciseValues>
+    <percMissingValues>0</percMissingValues>
+    <field>Laboratory</field>
+    
+  </dataset>
+
+  <!-- 10 data sets -->
+
+  <dataset>
+    <nameAbr>penbased</nameAbr>
+    <nameComplete>penbased</nameComplete>
+    <problemType>Classification</problemType>
+    <partitions>
+      <partition>10cfv</partition>
+      <partition>5x2cv</partition>
+    </partitions>
+    <continuosValues>No</continuosValues>
+    <discreteValues>No</discreteValues>
+    <nominalValues>No</nominalValues>
+    <impreciseValues>No</impreciseValues>
+    <percMissingValues>0</percMissingValues>
+    <field>Laboratory</field>
+    
+  </dataset>
+  <dataset>
+    <nameAbr>phoneme</nameAbr>
+    <nameComplete>phoneme</nameComplete>
+    <problemType>Classification</problemType>
+    <partitions>
+      <partition>10cfv</partition>
+      <partition>5x2cv</partition>
+    </partitions>
+    <continuosValues>No</continuosValues>
+    <discreteValues>No</discreteValues>
+    <nominalValues>No</nominalValues>
+    <impreciseValues>No</impreciseValues>
+    <percMissingValues>0</percMissingValues>
+    <field>Laboratory</field>
+    
+  </dataset>
+  <dataset>
+    <nameAbr>ring</nameAbr>
+    <nameComplete>ring</nameComplete>
+    <problemType>Classification</problemType>
+    <partitions>
+      <partition>10cfv</partition>
+      <partition>5x2cv</partition>
+    </partitions>
+    <continuosValues>No</continuosValues>
+    <discreteValues>No</discreteValues>
+    <nominalValues>No</nominalValues>
+    <impreciseValues>No</impreciseValues>
+    <percMissingValues>0</percMissingValues>
+    <field>Laboratory</field>
+    
+  </dataset>
+  <dataset>
+    <nameAbr>satimage</nameAbr>
+    <nameComplete>satimage</nameComplete>
+    <problemType>Classification</problemType>
+    <partitions>
+      <partition>10cfv</partition>
+      <partition>5x2cv</partition>
+    </partitions>
+    <continuosValues>No</continuosValues>
+    <discreteValues>No</discreteValues>
+    <nominalValues>No</nominalValues>
+    <impreciseValues>No</impreciseValues>
+    <percMissingValues>0</percMissingValues>
+    <field>Laboratory</field>
+    
+  </dataset>
+  <dataset>
+    <nameAbr>segment</nameAbr>
+    <nameComplete>segment</nameComplete>
+    <problemType>Classification</problemType>
+    <partitions>
+      <partition>10cfv</partition>
+      <partition>5x2cv</partition>
+    </partitions>
+    <continuosValues>No</continuosValues>
+    <discreteValues>No</discreteValues>
+    <nominalValues>No</nominalValues>
+    <impreciseValues>No</impreciseValues>
+    <percMissingValues>0</percMissingValues>
+    <field>Laboratory</field>
+    
+  </dataset>
+  <dataset>
+    <nameAbr>spambase</nameAbr>
+    <nameComplete>spambase</nameComplete>
+    <problemType>Classification</problemType>
+    <partitions>
+      <partition>10cfv</partition>
+      <partition>5x2cv</partition>
+    </partitions>
+    <continuosValues>No</continuosValues>
+    <discreteValues>No</discreteValues>
+    <nominalValues>No</nominalValues>
+    <impreciseValues>No</impreciseValues>
+    <percMissingValues>0</percMissingValues>
+    <field>Laboratory</field>
+    
+  </dataset>
+  <dataset>
+    <nameAbr>splice</nameAbr>
+    <nameComplete>splice</nameComplete>
+    <problemType>Classification</problemType>
+    <partitions>
+      <partition>10cfv</partition>
+      <partition>5x2cv</partition>
+    </partitions>
+    <continuosValues>No</continuosValues>
+    <discreteValues>No</discreteValues>
+    <nominalValues>No</nominalValues>
+    <impreciseValues>No</impreciseValues>
+    <percMissingValues>0</percMissingValues>
+    <field>Laboratory</field>
+    
+  </dataset>
+  <dataset>
+    <nameAbr>texture</nameAbr>
+    <nameComplete>texture</nameComplete>
+    <problemType>Classification</problemType>
+    <partitions>
+      <partition>10cfv</partition>
+      <partition>5x2cv</partition>
+    </partitions>
+    <continuosValues>No</continuosValues>
+    <discreteValues>No</discreteValues>
+    <nominalValues>No</nominalValues>
+    <impreciseValues>No</impreciseValues>
+    <percMissingValues>0</percMissingValues>
+    <field>Laboratory</field>
+    
+  </dataset>
+  <dataset>
+    <nameAbr>thyroid</nameAbr>
+    <nameComplete>thyroid</nameComplete>
+    <problemType>Classification</problemType>
+    <partitions>
+      <partition>10cfv</partition>
+      <partition>5x2cv</partition>
+    </partitions>
+    <continuosValues>No</continuosValues>
+    <discreteValues>No</discreteValues>
+    <nominalValues>No</nominalValues>
+    <impreciseValues>No</impreciseValues>
+    <percMissingValues>0</percMissingValues>
+    <field>Laboratory</field>
+    
+  </dataset>
+  <dataset>
+    <nameAbr>titanic</nameAbr>
+    <nameComplete>titanic</nameComplete>
+    <problemType>Classification</problemType>
+    <partitions>
+      <partition>10cfv</partition>
+      <partition>5x2cv</partition>
+    </partitions>
+    <continuosValues>No</continuosValues>
+    <discreteValues>No</discreteValues>
+    <nominalValues>No</nominalValues>
+    <impreciseValues>No</impreciseValues>
+    <percMissingValues>0</percMissingValues>
+    <field>Laboratory</field>
+    
+  </dataset>
+
+<!-- 20 data sets -->
+
+  <dataset>
+    <nameAbr>twonorm</nameAbr>
+    <nameComplete>twonorm</nameComplete>
+    <problemType>Classification</problemType>
+    <partitions>
+      <partition>10cfv</partition>
+      <partition>5x2cv</partition>
+    </partitions>
+    <continuosValues>No</continuosValues>
+    <discreteValues>No</discreteValues>
+    <nominalValues>No</nominalValues>
+    <impreciseValues>No</impreciseValues>
+    <percMissingValues>0</percMissingValues>
+    <field>Laboratory</field>
+    
+  </dataset>
+</dataset_list>
